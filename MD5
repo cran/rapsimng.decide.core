@@ -1,0 +1,11 @@
+e9474a65e22f1a91ded576aefb3f8c56 *DESCRIPTION
+2ea7e07e4f644b46e477865f0f28b759 *LICENSE
+8d07f9bf760024e81a59e994f62deac1 *NAMESPACE
+d0256437ad0792b719b7800359d55011 *R/document.R
+1aa2803219420f0441499326c3ca2b0d *README.md
+05ac12dd401f9dc6529b6159e3dbb505 *inst/example/-35.120_147.370.met
+43e89539c39a3b3b82afce83caf039b0 *inst/example/cultivar.apsimx
+d31795f16e4e86bdda8e668cf5960d3f *man/document_lines.Rd
+af9080b90d0fdba65d60c2cf59b232ad *man/write_document.Rd
+29ab397bf79c5c4e35b9e03093486880 *tests/testthat.R
+43d486971a9a8cd9e257e5f90007d878 *tests/testthat/test-document.R
